@@ -37,7 +37,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='https://i.imgur.com/ia7gIzP.mp4' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **screen recording app**
+GIF created with **[ScreenToGif](https://www.screentogif.com/) for Windows**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
